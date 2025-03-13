@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\OneDrive\\Desktop\\github\\AcunmedyaAkademiQ\\Assignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CA3FA80B-4D5B-44F7-B0EA-3A1E03000A5C}|Assignment\\Assignment.csproj|c:\\users\\asus\\onedrive\\desktop\\github\\acunmedyaakademiq\\assignment\\assignment\\classes\\human.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA3FA80B-4D5B-44F7-B0EA-3A1E03000A5C}|Assignment\\Assignment.csproj|solutionrelative:assignment\\classes\\human.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA3FA80B-4D5B-44F7-B0EA-3A1E03000A5C}|Assignment\\Assignment.csproj|c:\\users\\asus\\onedrive\\desktop\\github\\acunmedyaakademiq\\assignment\\assignment\\classes\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA3FA80B-4D5B-44F7-B0EA-3A1E03000A5C}|Assignment\\Assignment.csproj|solutionrelative:assignment\\classes\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA3FA80B-4D5B-44F7-B0EA-3A1E03000A5C}|Assignment\\Assignment.csproj|c:\\users\\asus\\onedrive\\desktop\\github\\acunmedyaakademiq\\assignment\\assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA3FA80B-4D5B-44F7-B0EA-3A1E03000A5C}|Assignment\\Assignment.csproj|solutionrelative:assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA3FA80B-4D5B-44F7-B0EA-3A1E03000A5C}|Assignment\\Assignment.csproj|c:\\users\\asus\\onedrive\\desktop\\github\\acunmedyaakademiq\\assignment\\assignment\\classes\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA3FA80B-4D5B-44F7-B0EA-3A1E03000A5C}|Assignment\\Assignment.csproj|solutionrelative:assignment\\classes\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA3FA80B-4D5B-44F7-B0EA-3A1E03000A5C}|Assignment\\Assignment.csproj|c:\\users\\asus\\onedrive\\desktop\\github\\acunmedyaakademiq\\assignment\\assignment\\classes\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA3FA80B-4D5B-44F7-B0EA-3A1E03000A5C}|Assignment\\Assignment.csproj|solutionrelative:assignment\\classes\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA3FA80B-4D5B-44F7-B0EA-3A1E03000A5C}|Assignment\\Assignment.csproj|c:\\users\\asus\\onedrive\\desktop\\github\\acunmedyaakademiq\\assignment\\assignment\\classes\\generalmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA3FA80B-4D5B-44F7-B0EA-3A1E03000A5C}|Assignment\\Assignment.csproj|solutionrelative:assignment\\classes\\generalmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA3FA80B-4D5B-44F7-B0EA-3A1E03000A5C}|Assignment\\Assignment.csproj|c:\\users\\asus\\onedrive\\desktop\\github\\acunmedyaakademiq\\assignment\\assignment\\classes\\developer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA3FA80B-4D5B-44F7-B0EA-3A1E03000A5C}|Assignment\\Assignment.csproj|solutionrelative:assignment\\classes\\developer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA3FA80B-4D5B-44F7-B0EA-3A1E03000A5C}|Assignment\\Assignment.csproj|c:\\users\\asus\\onedrive\\desktop\\github\\acunmedyaakademiq\\assignment\\assignment\\classes\\intern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA3FA80B-4D5B-44F7-B0EA-3A1E03000A5C}|Assignment\\Assignment.csproj|solutionrelative:assignment\\classes\\intern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Intern.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\github\\AcunmedyaAkademiQ\\Assignment\\Assignment\\Classes\\Intern.cs",
+              "RelativeDocumentMoniker": "Assignment\\Classes\\Intern.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\github\\AcunmedyaAkademiQ\\Assignment\\Assignment\\Classes\\Intern.cs",
+              "RelativeToolTip": "Assignment\\Classes\\Intern.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T13:27:21.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Developer.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\github\\AcunmedyaAkademiQ\\Assignment\\Assignment\\Classes\\Developer.cs",
+              "RelativeDocumentMoniker": "Assignment\\Classes\\Developer.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\github\\AcunmedyaAkademiQ\\Assignment\\Assignment\\Classes\\Developer.cs",
+              "RelativeToolTip": "Assignment\\Classes\\Developer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T13:27:09.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GeneralManager.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\github\\AcunmedyaAkademiQ\\Assignment\\Assignment\\Classes\\GeneralManager.cs",
+              "RelativeDocumentMoniker": "Assignment\\Classes\\GeneralManager.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\github\\AcunmedyaAkademiQ\\Assignment\\Assignment\\Classes\\GeneralManager.cs",
+              "RelativeToolTip": "Assignment\\Classes\\GeneralManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T13:26:46.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Manager.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\github\\AcunmedyaAkademiQ\\Assignment\\Assignment\\Classes\\Manager.cs",
+              "RelativeDocumentMoniker": "Assignment\\Classes\\Manager.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\github\\AcunmedyaAkademiQ\\Assignment\\Assignment\\Classes\\Manager.cs",
+              "RelativeToolTip": "Assignment\\Classes\\Manager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T13:26:12.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\github\\AcunmedyaAkademiQ\\Assignment\\Assignment\\Classes\\Employee.cs",
+              "RelativeDocumentMoniker": "Assignment\\Classes\\Employee.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\github\\AcunmedyaAkademiQ\\Assignment\\Assignment\\Classes\\Employee.cs",
+              "RelativeToolTip": "Assignment\\Classes\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T13:21:03.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\github\\AcunmedyaAkademiQ\\Assignment\\Assignment\\Classes\\Car.cs",
+              "RelativeDocumentMoniker": "Assignment\\Classes\\Car.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\github\\AcunmedyaAkademiQ\\Assignment\\Assignment\\Classes\\Car.cs",
+              "RelativeToolTip": "Assignment\\Classes\\Car.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T13:14:33.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Human.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\github\\AcunmedyaAkademiQ\\Assignment\\Assignment\\Classes\\Human.cs",
+              "RelativeDocumentMoniker": "Assignment\\Classes\\Human.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\github\\AcunmedyaAkademiQ\\Assignment\\Assignment\\Classes\\Human.cs",
+              "RelativeToolTip": "Assignment\\Classes\\Human.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwCkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T12:59:44.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\github\\AcunmedyaAkademiQ\\Assignment\\Assignment\\Program.cs",
+              "RelativeDocumentMoniker": "Assignment\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\github\\AcunmedyaAkademiQ\\Assignment\\Assignment\\Program.cs",
+              "RelativeToolTip": "Assignment\\Program.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAIwEcAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T12:45:41.338Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
