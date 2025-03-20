@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\OneDrive\\Desktop\\github\\AcunmedyaAkademiQ\\Assignment13-03-2025\\Assignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3342EDEB-B02C-493E-96BF-7193A1B034C9}|Assignment\\Assignment.csproj|c:\\users\\asus\\onedrive\\desktop\\github\\acunmedyaakademiq\\assignment13-03-2025\\assignment\\assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3342EDEB-B02C-493E-96BF-7193A1B034C9}|Assignment\\Assignment.csproj|solutionrelative:assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3342EDEB-B02C-493E-96BF-7193A1B034C9}|Assignment\\Assignment.csproj|c:\\users\\asus\\onedrive\\desktop\\github\\acunmedyaakademiq\\assignment13-03-2025\\assignment\\assignment\\classes\\matematik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3342EDEB-B02C-493E-96BF-7193A1B034C9}|Assignment\\Assignment.csproj|solutionrelative:assignment\\classes\\matematik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3342EDEB-B02C-493E-96BF-7193A1B034C9}|Assignment\\Assignment.csproj|c:\\users\\asus\\onedrive\\desktop\\github\\acunmedyaakademiq\\assignment13-03-2025\\assignment\\assignment\\constructors\\araba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3342EDEB-B02C-493E-96BF-7193A1B034C9}|Assignment\\Assignment.csproj|solutionrelative:assignment\\constructors\\araba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3342EDEB-B02C-493E-96BF-7193A1B034C9}|Assignment\\Assignment.csproj|c:\\users\\asus\\onedrive\\desktop\\github\\acunmedyaakademiq\\assignment13-03-2025\\assignment\\assignment\\constructors\\fiyat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3342EDEB-B02C-493E-96BF-7193A1B034C9}|Assignment\\Assignment.csproj|solutionrelative:assignment\\constructors\\fiyat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3342EDEB-B02C-493E-96BF-7193A1B034C9}|Assignment\\Assignment.csproj|c:\\users\\asus\\onedrive\\desktop\\github\\acunmedyaakademiq\\assignment13-03-2025\\assignment\\assignment\\constructors\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3342EDEB-B02C-493E-96BF-7193A1B034C9}|Assignment\\Assignment.csproj|solutionrelative:assignment\\constructors\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3342EDEB-B02C-493E-96BF-7193A1B034C9}|Assignment\\Assignment.csproj|c:\\users\\asus\\onedrive\\desktop\\github\\acunmedyaakademiq\\assignment13-03-2025\\assignment\\assignment\\constructors\\marka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3342EDEB-B02C-493E-96BF-7193A1B034C9}|Assignment\\Assignment.csproj|solutionrelative:assignment\\constructors\\marka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3342EDEB-B02C-493E-96BF-7193A1B034C9}|Assignment\\Assignment.csproj|c:\\users\\asus\\onedrive\\desktop\\github\\acunmedyaakademiq\\assignment13-03-2025\\assignment\\assignment\\constructors\\pencere.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3342EDEB-B02C-493E-96BF-7193A1B034C9}|Assignment\\Assignment.csproj|solutionrelative:assignment\\constructors\\pencere.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3342EDEB-B02C-493E-96BF-7193A1B034C9}|Assignment\\Assignment.csproj|c:\\users\\asus\\onedrive\\desktop\\github\\acunmedyaakademiq\\assignment13-03-2025\\assignment\\assignment\\constructors\\kasa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3342EDEB-B02C-493E-96BF-7193A1B034C9}|Assignment\\Assignment.csproj|solutionrelative:assignment\\constructors\\kasa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3342EDEB-B02C-493E-96BF-7193A1B034C9}|Assignment\\Assignment.csproj|c:\\users\\asus\\onedrive\\desktop\\github\\acunmedyaakademiq\\assignment13-03-2025\\assignment\\assignment\\constructors\\kapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3342EDEB-B02C-493E-96BF-7193A1B034C9}|Assignment\\Assignment.csproj|solutionrelative:assignment\\constructors\\kapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Matematik.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\github\\AcunmedyaAkademiQ\\Assignment13-03-2025\\Assignment\\Assignment\\Classes\\Matematik.cs",
+              "RelativeDocumentMoniker": "Assignment\\Classes\\Matematik.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\github\\AcunmedyaAkademiQ\\Assignment13-03-2025\\Assignment\\Assignment\\Classes\\Matematik.cs",
+              "RelativeToolTip": "Assignment\\Classes\\Matematik.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAADwvz4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T14:34:14.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Araba.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\github\\AcunmedyaAkademiQ\\Assignment13-03-2025\\Assignment\\Assignment\\Constructors\\Araba.cs",
+              "RelativeDocumentMoniker": "Assignment\\Constructors\\Araba.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\github\\AcunmedyaAkademiQ\\Assignment13-03-2025\\Assignment\\Assignment\\Constructors\\Araba.cs",
+              "RelativeToolTip": "Assignment\\Constructors\\Araba.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T11:23:24.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Fiyat.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\github\\AcunmedyaAkademiQ\\Assignment13-03-2025\\Assignment\\Assignment\\Constructors\\Fiyat.cs",
+              "RelativeDocumentMoniker": "Assignment\\Constructors\\Fiyat.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\github\\AcunmedyaAkademiQ\\Assignment13-03-2025\\Assignment\\Assignment\\Constructors\\Fiyat.cs",
+              "RelativeToolTip": "Assignment\\Constructors\\Fiyat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T11:13:53.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Model.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\github\\AcunmedyaAkademiQ\\Assignment13-03-2025\\Assignment\\Assignment\\Constructors\\Model.cs",
+              "RelativeDocumentMoniker": "Assignment\\Constructors\\Model.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\github\\AcunmedyaAkademiQ\\Assignment13-03-2025\\Assignment\\Assignment\\Constructors\\Model.cs",
+              "RelativeToolTip": "Assignment\\Constructors\\Model.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T11:13:47.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Marka.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\github\\AcunmedyaAkademiQ\\Assignment13-03-2025\\Assignment\\Assignment\\Constructors\\Marka.cs",
+              "RelativeDocumentMoniker": "Assignment\\Constructors\\Marka.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\github\\AcunmedyaAkademiQ\\Assignment13-03-2025\\Assignment\\Assignment\\Constructors\\Marka.cs",
+              "RelativeToolTip": "Assignment\\Constructors\\Marka.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T11:02:29.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Pencere.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\github\\AcunmedyaAkademiQ\\Assignment13-03-2025\\Assignment\\Assignment\\Constructors\\Pencere.cs",
+              "RelativeDocumentMoniker": "Assignment\\Constructors\\Pencere.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\github\\AcunmedyaAkademiQ\\Assignment13-03-2025\\Assignment\\Assignment\\Constructors\\Pencere.cs",
+              "RelativeToolTip": "Assignment\\Constructors\\Pencere.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T11:02:22.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Kasa.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\github\\AcunmedyaAkademiQ\\Assignment13-03-2025\\Assignment\\Assignment\\Constructors\\Kasa.cs",
+              "RelativeDocumentMoniker": "Assignment\\Constructors\\Kasa.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\github\\AcunmedyaAkademiQ\\Assignment13-03-2025\\Assignment\\Assignment\\Constructors\\Kasa.cs",
+              "RelativeToolTip": "Assignment\\Constructors\\Kasa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T11:02:10.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Kapi.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\github\\AcunmedyaAkademiQ\\Assignment13-03-2025\\Assignment\\Assignment\\Constructors\\Kapi.cs",
+              "RelativeDocumentMoniker": "Assignment\\Constructors\\Kapi.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\github\\AcunmedyaAkademiQ\\Assignment13-03-2025\\Assignment\\Assignment\\Constructors\\Kapi.cs",
+              "RelativeToolTip": "Assignment\\Constructors\\Kapi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T11:02:01.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\github\\AcunmedyaAkademiQ\\Assignment13-03-2025\\Assignment\\Assignment\\Program.cs",
+              "RelativeDocumentMoniker": "Assignment\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\github\\AcunmedyaAkademiQ\\Assignment13-03-2025\\Assignment\\Assignment\\Program.cs",
+              "RelativeToolTip": "Assignment\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T10:59:44.975Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
