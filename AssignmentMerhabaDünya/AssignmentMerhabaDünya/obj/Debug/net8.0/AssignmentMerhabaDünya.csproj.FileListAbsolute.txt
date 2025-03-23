@@ -1,0 +1,15 @@
+C:\Users\ASUS\OneDrive\Desktop\github\AcunmedyaAkademiQ\AssignmentMerhabaDünya\AssignmentMerhabaDünya\bin\Debug\net8.0\AssignmentMerhabaDünya.exe
+C:\Users\ASUS\OneDrive\Desktop\github\AcunmedyaAkademiQ\AssignmentMerhabaDünya\AssignmentMerhabaDünya\bin\Debug\net8.0\AssignmentMerhabaDünya.deps.json
+C:\Users\ASUS\OneDrive\Desktop\github\AcunmedyaAkademiQ\AssignmentMerhabaDünya\AssignmentMerhabaDünya\bin\Debug\net8.0\AssignmentMerhabaDünya.runtimeconfig.json
+C:\Users\ASUS\OneDrive\Desktop\github\AcunmedyaAkademiQ\AssignmentMerhabaDünya\AssignmentMerhabaDünya\bin\Debug\net8.0\AssignmentMerhabaDünya.dll
+C:\Users\ASUS\OneDrive\Desktop\github\AcunmedyaAkademiQ\AssignmentMerhabaDünya\AssignmentMerhabaDünya\bin\Debug\net8.0\AssignmentMerhabaDünya.pdb
+C:\Users\ASUS\OneDrive\Desktop\github\AcunmedyaAkademiQ\AssignmentMerhabaDünya\AssignmentMerhabaDünya\obj\Debug\net8.0\AssignmentMerhabaDünya.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\Desktop\github\AcunmedyaAkademiQ\AssignmentMerhabaDünya\AssignmentMerhabaDünya\obj\Debug\net8.0\AssignmentMerhabaDünya.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\github\AcunmedyaAkademiQ\AssignmentMerhabaDünya\AssignmentMerhabaDünya\obj\Debug\net8.0\AssignmentMerhabaDünya.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Desktop\github\AcunmedyaAkademiQ\AssignmentMerhabaDünya\AssignmentMerhabaDünya\obj\Debug\net8.0\AssignmentMerhabaDünya.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\github\AcunmedyaAkademiQ\AssignmentMerhabaDünya\AssignmentMerhabaDünya\obj\Debug\net8.0\AssignmentMerhabaDünya.sourcelink.json
+C:\Users\ASUS\OneDrive\Desktop\github\AcunmedyaAkademiQ\AssignmentMerhabaDünya\AssignmentMerhabaDünya\obj\Debug\net8.0\AssignmentMerhabaDünya.dll
+C:\Users\ASUS\OneDrive\Desktop\github\AcunmedyaAkademiQ\AssignmentMerhabaDünya\AssignmentMerhabaDünya\obj\Debug\net8.0\refint\AssignmentMerhabaDünya.dll
+C:\Users\ASUS\OneDrive\Desktop\github\AcunmedyaAkademiQ\AssignmentMerhabaDünya\AssignmentMerhabaDünya\obj\Debug\net8.0\AssignmentMerhabaDünya.pdb
+C:\Users\ASUS\OneDrive\Desktop\github\AcunmedyaAkademiQ\AssignmentMerhabaDünya\AssignmentMerhabaDünya\obj\Debug\net8.0\AssignmentMerhabaDünya.genruntimeconfig.cache
+C:\Users\ASUS\OneDrive\Desktop\github\AcunmedyaAkademiQ\AssignmentMerhabaDünya\AssignmentMerhabaDünya\obj\Debug\net8.0\ref\AssignmentMerhabaDünya.dll
